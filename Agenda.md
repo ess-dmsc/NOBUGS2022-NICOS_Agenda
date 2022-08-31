@@ -10,19 +10,19 @@
 **10:30** - **Continued discussions on NICOS wish lists**
 Some suggested topics for discussion (some might also end up in the NICOS road map above).
 
-- `ESS`:
-	- SciCat integration.
-	- GUI developments (switch to PyQt6 and/or flow UI).
-	- Dry run in NICOS.
-	- Auto-formatting of NICOS code.
-	- Kafka library (confluent-kafka instead of kafka-python).
-	- EPICS libraries (replacement of pyepics with caproto).
-	- Imaging daq scripts.
-	- Web UI.
+`ESS`:
+- SciCat integration.
+- GUI developments (switch to PyQt6 and/or flow UI).
+- Dry run in NICOS.
+- Auto-formatting of NICOS code.
+- Kafka library (confluent-kafka instead of kafka-python).
+- EPICS libraries (replacement of pyepics with caproto).
+- Imaging daq scripts.
+- Web UI.
 	
-- `MLZ`:
+`MLZ`:
 
-- `PSI`:
+`PSI`:
 	
 **12:00** - **Lunch**
  
