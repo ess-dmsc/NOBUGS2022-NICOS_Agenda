@@ -19,10 +19,14 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - EPICS libraries (replacement of pyepics with caproto).
 - Imaging daq scripts.
 - Web UI.
-	
+
 `MLZ`:
+- new cache backend (substitution of file based)
+- file service
+- new daemon protocol (http/websockets)
+- easy switch between "real" and "virtual" instrument
 
 `PSI`:
-	
+
 **12:00** - **Lunch**
- 
+
