@@ -27,6 +27,15 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - easy switch between "real" and "virtual" instrument
 
 `PSI`:
+- GOD objects issue
+- GUI for imaging (starting with slider to limit range of intensity)
+- Python versions officially supported
+- Consolidation of the GUI
+- Detach GUI form daemon
+- User authentication/file permissions (LDAP, Posix)
+- Workflow in Gerrit
+- Something that makes communications to the hardware easier (_e.g._ async server)
+
 
 **12:00** - **Lunch**
 
