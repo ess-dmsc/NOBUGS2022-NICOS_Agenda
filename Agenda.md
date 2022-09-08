@@ -34,7 +34,7 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - Detach GUI form daemon
 - User authentication/file permissions (LDAP, Posix)
 - Workflow in Gerrit
-
+- Something that makes communications to the hardware easier (_e.g._ async server)
 
 
 **12:00** - **Lunch**
