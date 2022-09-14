@@ -15,7 +15,6 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - GUI developments (switch to PyQt6 and/or flow UI).
 - Dry run in NICOS.
 - Auto-formatting of NICOS code.
-- Kafka library (confluent-kafka instead of kafka-python).
 - Imaging daq scripts.
 - Web UI.
 
@@ -28,6 +27,7 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 `PSI`:
 - GOD objects issue
 - EPICS libraries (replacement of pyepics with caproto).
+- Kafka library (confluent-kafka instead of kafka-python).
 - GUI for imaging (starting with slider to limit range of intensity)
 - Python versions officially supported
 - Consolidation of the GUI
