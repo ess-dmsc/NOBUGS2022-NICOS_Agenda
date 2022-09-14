@@ -5,10 +5,9 @@
 
 
 ## MLZ
-- Georg ?
+- Christian
+- Oscar
 - Jens ?
-- Christian ?
-- Oscar ?
 
 ## PSI
 - Mark Koennecke
