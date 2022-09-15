@@ -33,7 +33,7 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - Consolidation of the GUI
 - Detach GUI form daemon
 - User authentication/file permissions (LDAP, Posix)
-- Workflow in Gerrit
+- Workflow in Gerrit (please make specific example and suggest solutions, _e.g._ specify "if this commit will not be reviewed before ... will be automatically merged")
 - Something that makes communications to the hardware easier (_e.g._ async server)
 
 
