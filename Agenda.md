@@ -17,6 +17,7 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - Auto-formatting of NICOS code.
 - Imaging daq scripts.
 - Web UI.
+- Road map.
 
 `MLZ`:
 - new cache backend (substitution of file based)
