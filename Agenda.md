@@ -24,6 +24,7 @@ Some suggested topics for discussion (some might also end up in the NICOS road m
 - file service
 - new daemon protocol (http/websockets)
 - easy switch between "real" and "virtual" instrument
+- 'parameters' in GUI panels
 
 `PSI`:
 - GOD objects issue

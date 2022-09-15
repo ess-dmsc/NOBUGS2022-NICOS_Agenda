@@ -7,7 +7,7 @@
 ## MLZ
 - Christian
 - Oscar
-- Jens ?
+- Jens
 
 ## PSI
 - Mark Koennecke
