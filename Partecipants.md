@@ -2,7 +2,7 @@
 - Kenan Muric
 - Daniel Cacabelos
 - Tobias Richter
-
+- Max Novelli
 
 ## MLZ
 - Christian
