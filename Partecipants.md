@@ -12,3 +12,6 @@
 ## PSI
 - Mark Koennecke
 - Michele Brambilla
+
+## Others
+- Deon Marais
